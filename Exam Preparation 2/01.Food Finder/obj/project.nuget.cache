@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2jHURmq47A47dCaVHsycy5gAQSFVVQBwOP0XNMo3m9Fp6xuv8TAWG69dl0IlzO/vkhiUS6XIYCjIAH98doRbvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xhynz\\source\\repos\\Exam Preparation 2\\01.Food Finder\\01.Food Finder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xhynz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

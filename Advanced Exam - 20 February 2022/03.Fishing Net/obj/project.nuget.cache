@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9xdTTQt+g20GS/HJl8+MPDi8yxB6LlWruICVG1+HiFfPNQo8vyrsYKeL11MBIIruOTn7ewPAo/DtC6zwbGj1dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xhynz\\source\\repos\\Advanced Exam - 20 February 2022\\03.Fishing Net\\03.Fishing Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xhynz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

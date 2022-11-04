@@ -1,0 +1,14 @@
+C:\Users\xhynz\source\repos\Functional Programming - Exercise\04. Find Even or Odds\bin\Debug\netcoreapp3.1\04. Find Even or Odds.exe
+C:\Users\xhynz\source\repos\Functional Programming - Exercise\04. Find Even or Odds\bin\Debug\netcoreapp3.1\04. Find Even or Odds.deps.json
+C:\Users\xhynz\source\repos\Functional Programming - Exercise\04. Find Even or Odds\bin\Debug\netcoreapp3.1\04. Find Even or Odds.runtimeconfig.json
+C:\Users\xhynz\source\repos\Functional Programming - Exercise\04. Find Even or Odds\bin\Debug\netcoreapp3.1\04. Find Even or Odds.runtimeconfig.dev.json
+C:\Users\xhynz\source\repos\Functional Programming - Exercise\04. Find Even or Odds\bin\Debug\netcoreapp3.1\04. Find Even or Odds.dll
+C:\Users\xhynz\source\repos\Functional Programming - Exercise\04. Find Even or Odds\bin\Debug\netcoreapp3.1\04. Find Even or Odds.pdb
+C:\Users\xhynz\source\repos\Functional Programming - Exercise\04. Find Even or Odds\obj\Debug\netcoreapp3.1\04. Find Even or Odds.csproj.AssemblyReference.cache
+C:\Users\xhynz\source\repos\Functional Programming - Exercise\04. Find Even or Odds\obj\Debug\netcoreapp3.1\04. Find Even or Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhynz\source\repos\Functional Programming - Exercise\04. Find Even or Odds\obj\Debug\netcoreapp3.1\04. Find Even or Odds.AssemblyInfoInputs.cache
+C:\Users\xhynz\source\repos\Functional Programming - Exercise\04. Find Even or Odds\obj\Debug\netcoreapp3.1\04. Find Even or Odds.AssemblyInfo.cs
+C:\Users\xhynz\source\repos\Functional Programming - Exercise\04. Find Even or Odds\obj\Debug\netcoreapp3.1\04. Find Even or Odds.csproj.CoreCompileInputs.cache
+C:\Users\xhynz\source\repos\Functional Programming - Exercise\04. Find Even or Odds\obj\Debug\netcoreapp3.1\04. Find Even or Odds.dll
+C:\Users\xhynz\source\repos\Functional Programming - Exercise\04. Find Even or Odds\obj\Debug\netcoreapp3.1\04. Find Even or Odds.pdb
+C:\Users\xhynz\source\repos\Functional Programming - Exercise\04. Find Even or Odds\obj\Debug\netcoreapp3.1\04. Find Even or Odds.genruntimeconfig.cache

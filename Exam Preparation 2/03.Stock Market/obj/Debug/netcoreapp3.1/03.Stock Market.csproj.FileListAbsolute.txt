@@ -1,0 +1,14 @@
+C:\Users\xhynz\source\repos\Exam Preparation 2\03.Stock Market\bin\Debug\netcoreapp3.1\03.Stock Market.exe
+C:\Users\xhynz\source\repos\Exam Preparation 2\03.Stock Market\bin\Debug\netcoreapp3.1\03.Stock Market.deps.json
+C:\Users\xhynz\source\repos\Exam Preparation 2\03.Stock Market\bin\Debug\netcoreapp3.1\03.Stock Market.runtimeconfig.json
+C:\Users\xhynz\source\repos\Exam Preparation 2\03.Stock Market\bin\Debug\netcoreapp3.1\03.Stock Market.runtimeconfig.dev.json
+C:\Users\xhynz\source\repos\Exam Preparation 2\03.Stock Market\bin\Debug\netcoreapp3.1\03.Stock Market.dll
+C:\Users\xhynz\source\repos\Exam Preparation 2\03.Stock Market\bin\Debug\netcoreapp3.1\03.Stock Market.pdb
+C:\Users\xhynz\source\repos\Exam Preparation 2\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.csproj.AssemblyReference.cache
+C:\Users\xhynz\source\repos\Exam Preparation 2\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhynz\source\repos\Exam Preparation 2\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.AssemblyInfoInputs.cache
+C:\Users\xhynz\source\repos\Exam Preparation 2\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.AssemblyInfo.cs
+C:\Users\xhynz\source\repos\Exam Preparation 2\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.csproj.CoreCompileInputs.cache
+C:\Users\xhynz\source\repos\Exam Preparation 2\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.dll
+C:\Users\xhynz\source\repos\Exam Preparation 2\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.pdb
+C:\Users\xhynz\source\repos\Exam Preparation 2\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.genruntimeconfig.cache

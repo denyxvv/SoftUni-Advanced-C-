@@ -1,0 +1,14 @@
+C:\Users\xhynz\source\repos\Custom Doubly Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\Custom Doubly Linked List.exe
+C:\Users\xhynz\source\repos\Custom Doubly Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\Custom Doubly Linked List.deps.json
+C:\Users\xhynz\source\repos\Custom Doubly Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\Custom Doubly Linked List.runtimeconfig.json
+C:\Users\xhynz\source\repos\Custom Doubly Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\Custom Doubly Linked List.runtimeconfig.dev.json
+C:\Users\xhynz\source\repos\Custom Doubly Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\Custom Doubly Linked List.dll
+C:\Users\xhynz\source\repos\Custom Doubly Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\Custom Doubly Linked List.pdb
+C:\Users\xhynz\source\repos\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.csproj.AssemblyReference.cache
+C:\Users\xhynz\source\repos\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhynz\source\repos\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.AssemblyInfoInputs.cache
+C:\Users\xhynz\source\repos\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.AssemblyInfo.cs
+C:\Users\xhynz\source\repos\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.csproj.CoreCompileInputs.cache
+C:\Users\xhynz\source\repos\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.dll
+C:\Users\xhynz\source\repos\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.pdb
+C:\Users\xhynz\source\repos\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.genruntimeconfig.cache

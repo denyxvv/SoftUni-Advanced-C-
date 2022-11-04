@@ -1,0 +1,13 @@
+C:\Users\xhynz\source\repos\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.exe
+C:\Users\xhynz\source\repos\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.deps.json
+C:\Users\xhynz\source\repos\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.json
+C:\Users\xhynz\source\repos\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.dev.json
+C:\Users\xhynz\source\repos\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.dll
+C:\Users\xhynz\source\repos\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.pdb
+C:\Users\xhynz\source\repos\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhynz\source\repos\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfoInputs.cache
+C:\Users\xhynz\source\repos\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfo.cs
+C:\Users\xhynz\source\repos\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\xhynz\source\repos\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.dll
+C:\Users\xhynz\source\repos\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.pdb
+C:\Users\xhynz\source\repos\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.genruntimeconfig.cache

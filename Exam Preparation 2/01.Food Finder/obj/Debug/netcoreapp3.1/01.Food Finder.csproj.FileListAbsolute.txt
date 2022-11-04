@@ -1,0 +1,14 @@
+C:\Users\xhynz\source\repos\Exam Preparation 2\01.Food Finder\bin\Debug\netcoreapp3.1\01.Food Finder.exe
+C:\Users\xhynz\source\repos\Exam Preparation 2\01.Food Finder\bin\Debug\netcoreapp3.1\01.Food Finder.deps.json
+C:\Users\xhynz\source\repos\Exam Preparation 2\01.Food Finder\bin\Debug\netcoreapp3.1\01.Food Finder.runtimeconfig.json
+C:\Users\xhynz\source\repos\Exam Preparation 2\01.Food Finder\bin\Debug\netcoreapp3.1\01.Food Finder.runtimeconfig.dev.json
+C:\Users\xhynz\source\repos\Exam Preparation 2\01.Food Finder\bin\Debug\netcoreapp3.1\01.Food Finder.dll
+C:\Users\xhynz\source\repos\Exam Preparation 2\01.Food Finder\bin\Debug\netcoreapp3.1\01.Food Finder.pdb
+C:\Users\xhynz\source\repos\Exam Preparation 2\01.Food Finder\obj\Debug\netcoreapp3.1\01.Food Finder.csproj.AssemblyReference.cache
+C:\Users\xhynz\source\repos\Exam Preparation 2\01.Food Finder\obj\Debug\netcoreapp3.1\01.Food Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhynz\source\repos\Exam Preparation 2\01.Food Finder\obj\Debug\netcoreapp3.1\01.Food Finder.AssemblyInfoInputs.cache
+C:\Users\xhynz\source\repos\Exam Preparation 2\01.Food Finder\obj\Debug\netcoreapp3.1\01.Food Finder.AssemblyInfo.cs
+C:\Users\xhynz\source\repos\Exam Preparation 2\01.Food Finder\obj\Debug\netcoreapp3.1\01.Food Finder.csproj.CoreCompileInputs.cache
+C:\Users\xhynz\source\repos\Exam Preparation 2\01.Food Finder\obj\Debug\netcoreapp3.1\01.Food Finder.dll
+C:\Users\xhynz\source\repos\Exam Preparation 2\01.Food Finder\obj\Debug\netcoreapp3.1\01.Food Finder.pdb
+C:\Users\xhynz\source\repos\Exam Preparation 2\01.Food Finder\obj\Debug\netcoreapp3.1\01.Food Finder.genruntimeconfig.cache

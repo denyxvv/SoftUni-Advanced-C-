@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1lyjBzcQ4GUAtGdqJOOyt8nek2+4WVCLdL2myP2PnIL81XcitzicM4k6xLJOZAd4EVyUD+wi0WjQUn1qMPDKYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xhynz\\source\\repos\\Exam preparation\\TileMaster\\01. Tiles Master.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xhynz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

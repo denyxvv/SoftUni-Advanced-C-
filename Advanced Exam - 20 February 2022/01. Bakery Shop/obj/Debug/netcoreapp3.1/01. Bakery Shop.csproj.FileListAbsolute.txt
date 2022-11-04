@@ -1,0 +1,14 @@
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.exe
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.deps.json
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.runtimeconfig.json
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.runtimeconfig.dev.json
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.dll
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.pdb
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.csproj.AssemblyReference.cache
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.AssemblyInfoInputs.cache
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.AssemblyInfo.cs
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.csproj.CoreCompileInputs.cache
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.dll
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.pdb
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpbQmfNAEBh4XyzMfB2kOp3kXPBR59Kid1OJt6lTSs9q/+SND2L3Jxfc0EY6I1VYyR/2EvZaAp99w5j1i/FgXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xhynz\\source\\repos\\Exam preparation\\02. Wall Destroyer\\02. Wall Destroyer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xhynz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

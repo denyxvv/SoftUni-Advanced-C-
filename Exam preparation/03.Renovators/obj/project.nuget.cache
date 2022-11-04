@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xTpvH9zUWbGgVuob/O1q3hPV8saravm77tDv8kcEkKSkuJArJBsfizgLIaB2qAvMEdVyCj/e//TObANWwGdqGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xhynz\\source\\repos\\Exam preparation\\03.Renovators\\03.Renovators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xhynz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

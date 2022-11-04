@@ -1,0 +1,14 @@
+C:\Users\xhynz\source\repos\Exam Preparation 2\02.Pawn Wars\bin\Debug\netcoreapp3.1\02.Pawn Wars.exe
+C:\Users\xhynz\source\repos\Exam Preparation 2\02.Pawn Wars\bin\Debug\netcoreapp3.1\02.Pawn Wars.deps.json
+C:\Users\xhynz\source\repos\Exam Preparation 2\02.Pawn Wars\bin\Debug\netcoreapp3.1\02.Pawn Wars.runtimeconfig.json
+C:\Users\xhynz\source\repos\Exam Preparation 2\02.Pawn Wars\bin\Debug\netcoreapp3.1\02.Pawn Wars.runtimeconfig.dev.json
+C:\Users\xhynz\source\repos\Exam Preparation 2\02.Pawn Wars\bin\Debug\netcoreapp3.1\02.Pawn Wars.dll
+C:\Users\xhynz\source\repos\Exam Preparation 2\02.Pawn Wars\bin\Debug\netcoreapp3.1\02.Pawn Wars.pdb
+C:\Users\xhynz\source\repos\Exam Preparation 2\02.Pawn Wars\obj\Debug\netcoreapp3.1\02.Pawn Wars.csproj.AssemblyReference.cache
+C:\Users\xhynz\source\repos\Exam Preparation 2\02.Pawn Wars\obj\Debug\netcoreapp3.1\02.Pawn Wars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhynz\source\repos\Exam Preparation 2\02.Pawn Wars\obj\Debug\netcoreapp3.1\02.Pawn Wars.AssemblyInfoInputs.cache
+C:\Users\xhynz\source\repos\Exam Preparation 2\02.Pawn Wars\obj\Debug\netcoreapp3.1\02.Pawn Wars.AssemblyInfo.cs
+C:\Users\xhynz\source\repos\Exam Preparation 2\02.Pawn Wars\obj\Debug\netcoreapp3.1\02.Pawn Wars.csproj.CoreCompileInputs.cache
+C:\Users\xhynz\source\repos\Exam Preparation 2\02.Pawn Wars\obj\Debug\netcoreapp3.1\02.Pawn Wars.dll
+C:\Users\xhynz\source\repos\Exam Preparation 2\02.Pawn Wars\obj\Debug\netcoreapp3.1\02.Pawn Wars.pdb
+C:\Users\xhynz\source\repos\Exam Preparation 2\02.Pawn Wars\obj\Debug\netcoreapp3.1\02.Pawn Wars.genruntimeconfig.cache

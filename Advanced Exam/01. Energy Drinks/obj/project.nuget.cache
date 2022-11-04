@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t0f3eLZA2I1OahYmpwhxmq4qWpPPXx5EVe8qvU3A587aS28n+4RzvVe24JbdZ7Fx02/cHLruqNyv6QenP9hWgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xhynz\\source\\repos\\Advanced Exam\\01. Energy Drinks\\01. Energy Drinks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xhynz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

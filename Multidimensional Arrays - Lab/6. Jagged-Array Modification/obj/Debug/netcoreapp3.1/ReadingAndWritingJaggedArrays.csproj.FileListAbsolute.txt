@@ -1,0 +1,14 @@
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\ReadingAndWritingJaggedArrays.exe
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\ReadingAndWritingJaggedArrays.deps.json
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\ReadingAndWritingJaggedArrays.runtimeconfig.json
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\ReadingAndWritingJaggedArrays.runtimeconfig.dev.json
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\ReadingAndWritingJaggedArrays.dll
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\ReadingAndWritingJaggedArrays.pdb
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\ReadingAndWritingJaggedArrays.csproj.AssemblyReference.cache
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\ReadingAndWritingJaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\ReadingAndWritingJaggedArrays.AssemblyInfoInputs.cache
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\ReadingAndWritingJaggedArrays.AssemblyInfo.cs
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\ReadingAndWritingJaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\ReadingAndWritingJaggedArrays.dll
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\ReadingAndWritingJaggedArrays.pdb
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\ReadingAndWritingJaggedArrays.genruntimeconfig.cache

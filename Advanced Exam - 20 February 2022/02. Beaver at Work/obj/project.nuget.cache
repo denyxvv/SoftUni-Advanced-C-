@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nmjsj3yb3vooIodrdxSCpt3pLmCDbYOYNTQwKRu085KjE6dRuNblfdhdsFbZEbpaAoJmHTDT0/9zn/jKjiutIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xhynz\\source\\repos\\Advanced Exam - 20 February 2022\\02. Beaver at Work\\02. Beaver at Work.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xhynz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

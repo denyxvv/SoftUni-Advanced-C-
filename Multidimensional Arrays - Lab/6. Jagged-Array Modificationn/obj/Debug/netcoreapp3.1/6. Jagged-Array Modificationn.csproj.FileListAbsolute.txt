@@ -1,0 +1,13 @@
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modificationn\bin\Debug\netcoreapp3.1\6. Jagged-Array Modificationn.exe
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modificationn\bin\Debug\netcoreapp3.1\6. Jagged-Array Modificationn.deps.json
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modificationn\bin\Debug\netcoreapp3.1\6. Jagged-Array Modificationn.runtimeconfig.json
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modificationn\bin\Debug\netcoreapp3.1\6. Jagged-Array Modificationn.runtimeconfig.dev.json
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modificationn\bin\Debug\netcoreapp3.1\6. Jagged-Array Modificationn.dll
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modificationn\bin\Debug\netcoreapp3.1\6. Jagged-Array Modificationn.pdb
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modificationn\obj\Debug\netcoreapp3.1\6. Jagged-Array Modificationn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modificationn\obj\Debug\netcoreapp3.1\6. Jagged-Array Modificationn.AssemblyInfoInputs.cache
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modificationn\obj\Debug\netcoreapp3.1\6. Jagged-Array Modificationn.AssemblyInfo.cs
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modificationn\obj\Debug\netcoreapp3.1\6. Jagged-Array Modificationn.csproj.CoreCompileInputs.cache
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modificationn\obj\Debug\netcoreapp3.1\6. Jagged-Array Modificationn.dll
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modificationn\obj\Debug\netcoreapp3.1\6. Jagged-Array Modificationn.pdb
+C:\Users\xhynz\source\repos\Multidimensional Arrays - Lab\6. Jagged-Array Modificationn\obj\Debug\netcoreapp3.1\6. Jagged-Array Modificationn.genruntimeconfig.cache

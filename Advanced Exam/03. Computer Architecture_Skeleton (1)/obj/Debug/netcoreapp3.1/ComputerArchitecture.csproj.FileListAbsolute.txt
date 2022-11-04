@@ -1,0 +1,14 @@
+C:\Users\xhynz\source\repos\Advanced Exam\03. Computer Architecture_Skeleton (1)\bin\Debug\netcoreapp3.1\ComputerArchitecture.exe
+C:\Users\xhynz\source\repos\Advanced Exam\03. Computer Architecture_Skeleton (1)\bin\Debug\netcoreapp3.1\ComputerArchitecture.deps.json
+C:\Users\xhynz\source\repos\Advanced Exam\03. Computer Architecture_Skeleton (1)\bin\Debug\netcoreapp3.1\ComputerArchitecture.runtimeconfig.json
+C:\Users\xhynz\source\repos\Advanced Exam\03. Computer Architecture_Skeleton (1)\bin\Debug\netcoreapp3.1\ComputerArchitecture.runtimeconfig.dev.json
+C:\Users\xhynz\source\repos\Advanced Exam\03. Computer Architecture_Skeleton (1)\bin\Debug\netcoreapp3.1\ComputerArchitecture.dll
+C:\Users\xhynz\source\repos\Advanced Exam\03. Computer Architecture_Skeleton (1)\bin\Debug\netcoreapp3.1\ComputerArchitecture.pdb
+C:\Users\xhynz\source\repos\Advanced Exam\03. Computer Architecture_Skeleton (1)\obj\Debug\netcoreapp3.1\ComputerArchitecture.csproj.AssemblyReference.cache
+C:\Users\xhynz\source\repos\Advanced Exam\03. Computer Architecture_Skeleton (1)\obj\Debug\netcoreapp3.1\ComputerArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhynz\source\repos\Advanced Exam\03. Computer Architecture_Skeleton (1)\obj\Debug\netcoreapp3.1\ComputerArchitecture.AssemblyInfoInputs.cache
+C:\Users\xhynz\source\repos\Advanced Exam\03. Computer Architecture_Skeleton (1)\obj\Debug\netcoreapp3.1\ComputerArchitecture.AssemblyInfo.cs
+C:\Users\xhynz\source\repos\Advanced Exam\03. Computer Architecture_Skeleton (1)\obj\Debug\netcoreapp3.1\ComputerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\xhynz\source\repos\Advanced Exam\03. Computer Architecture_Skeleton (1)\obj\Debug\netcoreapp3.1\ComputerArchitecture.dll
+C:\Users\xhynz\source\repos\Advanced Exam\03. Computer Architecture_Skeleton (1)\obj\Debug\netcoreapp3.1\ComputerArchitecture.pdb
+C:\Users\xhynz\source\repos\Advanced Exam\03. Computer Architecture_Skeleton (1)\obj\Debug\netcoreapp3.1\ComputerArchitecture.genruntimeconfig.cache

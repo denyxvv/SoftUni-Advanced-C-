@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DHWSvYA18/F3h9mtxCbaoN3pk++aEZuTp1rsntIxIrVYBhbACCw/R0YgK6ibX9ph3lBgcRtLvIhNmsDKO45Lyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xhynz\\source\\repos\\Exam Preparation 2\\02.Pawn Wars\\02.Pawn Wars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xhynz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ChPOpKvL0Hf++w4ca3kAPK13INa25r8XupjwOdoS67a3wEmajdIYvoA6CpBu6h1q2h2h4TYLWvk9e2DD54QGwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xhynz\\source\\repos\\Advanced Exam\\03. Computer Architecture_Skeleton (1)\\ComputerArchitecture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xhynz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

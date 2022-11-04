@@ -1,0 +1,14 @@
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\03.Fishing Net\bin\Debug\netcoreapp3.1\03.Fishing Net.exe
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\03.Fishing Net\bin\Debug\netcoreapp3.1\03.Fishing Net.deps.json
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\03.Fishing Net\bin\Debug\netcoreapp3.1\03.Fishing Net.runtimeconfig.json
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\03.Fishing Net\bin\Debug\netcoreapp3.1\03.Fishing Net.runtimeconfig.dev.json
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\03.Fishing Net\bin\Debug\netcoreapp3.1\03.Fishing Net.dll
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\03.Fishing Net\bin\Debug\netcoreapp3.1\03.Fishing Net.pdb
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.csproj.AssemblyReference.cache
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.AssemblyInfoInputs.cache
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.AssemblyInfo.cs
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.csproj.CoreCompileInputs.cache
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.dll
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.pdb
+C:\Users\xhynz\source\repos\Advanced Exam - 20 February 2022\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\xhynz\source\repos\Generics - Exercise\01.BoxOfString\bin\Debug\netcoreapp3.1\01.BoxOfString.exe
+C:\Users\xhynz\source\repos\Generics - Exercise\01.BoxOfString\bin\Debug\netcoreapp3.1\01.BoxOfString.deps.json
+C:\Users\xhynz\source\repos\Generics - Exercise\01.BoxOfString\bin\Debug\netcoreapp3.1\01.BoxOfString.runtimeconfig.json
+C:\Users\xhynz\source\repos\Generics - Exercise\01.BoxOfString\bin\Debug\netcoreapp3.1\01.BoxOfString.runtimeconfig.dev.json
+C:\Users\xhynz\source\repos\Generics - Exercise\01.BoxOfString\bin\Debug\netcoreapp3.1\01.BoxOfString.dll
+C:\Users\xhynz\source\repos\Generics - Exercise\01.BoxOfString\bin\Debug\netcoreapp3.1\01.BoxOfString.pdb
+C:\Users\xhynz\source\repos\Generics - Exercise\01.BoxOfString\obj\Debug\netcoreapp3.1\01.BoxOfString.csproj.AssemblyReference.cache
+C:\Users\xhynz\source\repos\Generics - Exercise\01.BoxOfString\obj\Debug\netcoreapp3.1\01.BoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhynz\source\repos\Generics - Exercise\01.BoxOfString\obj\Debug\netcoreapp3.1\01.BoxOfString.AssemblyInfoInputs.cache
+C:\Users\xhynz\source\repos\Generics - Exercise\01.BoxOfString\obj\Debug\netcoreapp3.1\01.BoxOfString.AssemblyInfo.cs
+C:\Users\xhynz\source\repos\Generics - Exercise\01.BoxOfString\obj\Debug\netcoreapp3.1\01.BoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\xhynz\source\repos\Generics - Exercise\01.BoxOfString\obj\Debug\netcoreapp3.1\01.BoxOfString.dll
+C:\Users\xhynz\source\repos\Generics - Exercise\01.BoxOfString\obj\Debug\netcoreapp3.1\01.BoxOfString.pdb
+C:\Users\xhynz\source\repos\Generics - Exercise\01.BoxOfString\obj\Debug\netcoreapp3.1\01.BoxOfString.genruntimeconfig.cache

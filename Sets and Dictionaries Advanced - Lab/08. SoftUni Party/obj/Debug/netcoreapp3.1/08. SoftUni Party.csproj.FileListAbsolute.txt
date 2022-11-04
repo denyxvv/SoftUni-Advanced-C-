@@ -1,0 +1,14 @@
+C:\Users\xhynz\source\repos\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.exe
+C:\Users\xhynz\source\repos\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.deps.json
+C:\Users\xhynz\source\repos\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.runtimeconfig.json
+C:\Users\xhynz\source\repos\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.runtimeconfig.dev.json
+C:\Users\xhynz\source\repos\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.dll
+C:\Users\xhynz\source\repos\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.pdb
+C:\Users\xhynz\source\repos\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.csproj.AssemblyReference.cache
+C:\Users\xhynz\source\repos\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhynz\source\repos\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\xhynz\source\repos\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.AssemblyInfo.cs
+C:\Users\xhynz\source\repos\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\xhynz\source\repos\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.dll
+C:\Users\xhynz\source\repos\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.pdb
+C:\Users\xhynz\source\repos\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.genruntimeconfig.cache
